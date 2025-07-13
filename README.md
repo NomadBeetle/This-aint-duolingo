@@ -1,7 +1,7 @@
 # This Ain’t Duolingo 🇫🇷
 
 A no-nonsense French flashcard app that actually respects your grind.
-Made with Python and Tkinter — because gamified owls aren’t the only way to learn.
+Made with Python and Tkinter.
 
 ---
 
@@ -23,7 +23,7 @@ cd this-aint-duolingo
 python main.py
 ```
 
-Make sure you keep the `data/` and `images/` folders as-is.
+Make sure you keep the `data/` and `images/` folders as is.
 You’ll need Python installed (Tkinter comes preinstalled with most setups).
 
 ---
@@ -31,7 +31,7 @@ You’ll need Python installed (Tkinter comes preinstalled with most setups).
 ## What I Learned
 
 * pandas file handling
-* timer-based UI logic in Tkinter
+* timer based UI logic in Tkinter
 * user experience tweaks with `os`, `messagebox`, and image buttons
 * how to make boring stuff look cool
 
