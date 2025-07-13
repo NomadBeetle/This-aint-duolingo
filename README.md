@@ -7,15 +7,15 @@ Made with Python and Tkinter.
 
 ## Features
 
-✅ Random French word flashcards
+* Random French word flashcards
 
-✅ Auto-flip to English in 3 seconds
+* Auto-flip to English in 3 seconds
 
-✅ Smart progress tracker
+* Smart progress tracker
 
-✅ Reset progress anytime
+* Reset progress anytime
 
-✅ Images & UI that don’t burn your eyes
+* Images & UI that don’t burn your eyes
 
 ---
 
