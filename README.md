@@ -39,7 +39,7 @@ You’ll need Python installed (Tkinter comes preinstalled with most setups).
 
 ## Screenshot
 
-> [alt text](image.png)
+> ![alt text](image.png)
 
 ---
 
